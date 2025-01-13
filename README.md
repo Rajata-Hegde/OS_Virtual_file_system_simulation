@@ -35,10 +35,16 @@ This project is a graphical terminal application simulating a Virtual File Syste
 
 ---
 
+### implementation details
+![WhatsApp Image 2024-12-19 at 13 10 56_3ff65b80](https://github.com/user-attachments/assets/285a459f-4619-4515-bd11-25919d27c2ae)
+![WhatsApp Image 2024-12-19 at 13 10 55_1caef1f4](https://github.com/user-attachments/assets/6206dfcf-fb45-4afb-b230-f66412c86870)
+
+
+
 ## Installation
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Rajata-Hegde/os_virtual_file_system_simulation.git
-   cd virtual-file-system-terminal
+   
 
